@@ -11,7 +11,7 @@ import CoreLocation
 
 final class PlacesAPIService {
 
-    private let apiKey = "AIzaSyCqafK_zWnJ1h7ZY_KTpsxmHRCQDAZzw_Q"
+    private let apiKey = "Your_API_KEY"
                            
     func searchPlaces(
            query: String,
