@@ -16,7 +16,6 @@ A production-ready SwiftUI iOS application that searches for nearby places (ATMs
 - 🎯 **Accurate Results** – Powered by Google Places API with CoreLocation distance calculation
 
 ---
-
 ## 🏗️ Project Architecture
 
 ```
